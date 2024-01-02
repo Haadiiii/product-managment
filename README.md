@@ -49,7 +49,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> [React](https://reactjs.org/) | [Redux](https://redux.js.org/) | [Node.js](https://nodejs.org/en/) | [MongoDB](https://www.mongodb.com/)
+> [React](https://reactjs.org/)  | [Node.js](https://nodejs.org/en/) | [Postgres]
 
 <details>
   <summary>Server</summary>
