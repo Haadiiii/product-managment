@@ -35,6 +35,16 @@
 
 **Product Management** is a web application that allows users to manage their products. It is built with React and Node.js.
 
+### IMAGES 
+
+![Screenshot from 2024-01-02 06-02-36](https://github.com/Haadiiii/product-managment/assets/104095543/925e1eac-5f68-4627-ac0c-94e92c4c1aac)
+
+
+
+![Screenshot from 2024-01-02 06-02-42](https://github.com/Haadiiii/product-managment/assets/104095543/058ef75a-496c-447d-8ce0-ab00344925b5)
+
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
